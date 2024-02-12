@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <div className="container">
         <Weather defaultCity="Johannesburg" />
-        banele
       </div>
     </div>
   );
